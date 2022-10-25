@@ -2,7 +2,12 @@
 
 An image recognition pipeline in AWS, using two parallel EC2 instances, S3, SQS, and Rekognition.
 
-**Goal**: The purpose of this individual assignment is to learn how to use the Amazon AWS cloud platform and how to develop an AWS application that uses existing cloud services. Specifically, you will learn: (1) how to create VMs (EC2 instances) in the cloud; (2) how to use cloud storage (S3) in your applications; (3) how to communicate between VMs using a queue service (SQS); (4) how to program distributed applications in Java on Linux VMs in the cloud; and (5) how to use a machine learning service (AWS Rekognition) in the cloud.
+**Goal**: The purpose of this individual assignment is to learn how to use the Amazon AWS cloud platform and how to develop an AWS application that uses existing cloud services. Specifically, you will learn:
+1. How to create VMs (EC2 instances) in the cloud.
+2. How to use cloud storage (S3) in your applications.
+3. How to communicate between VMs using a queue service (SQS).
+4. How to program distributed applications in Java on Linux VMs in the cloud, and
+5. How to use a machine learning service (AWS Rekognition) in the cloud.
 
 **Description**: You have to build an image recognition pipeline in AWS, using two EC2 instances, S3, SQS, and Rekognition. The assignment must be done in Java on Amazon Linux VMs. For the rest of the description, you should refer to the figure below:
 
